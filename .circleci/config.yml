@@ -20,9 +20,9 @@ workflows:
     jobs:
       - build-and-test
 
-version: 2
-jobs:
-  build:
+Version: 0002
+Jobs:
+  Build:
     # ...
     steps:
       - checkout  # checkout source code to working directory
