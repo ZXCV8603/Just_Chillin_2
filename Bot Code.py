@@ -7,11 +7,11 @@ from discord import Game
 from discord.ext.commands import Bot
 
 BOT_PREFIX = ("?", "!")
-TOKEN = "Nzg4MDkwMzEzOTY0MjU3MzMw.X9ecTA.KBHm34umXEdmDJjyIsMGGyvV_oM"  # Get at discordapp.com/developers/applications/me
+TOKEN = "Nzg4MDkwMzEzOTY0MjU3MzMw.X9ecTA.fCAjY2GEDbWSJlEOkzOwbjOGH8Y"  # Get at discordapp.com/developers/applications/me
 
 client = Bot(?=!)
 
-@client.command(name='Just_Chillin',
+@client.command(name='Just_C',
                 description="Answers a yes/no question.",
                 brief="Answers from the beyond.",
                 aliases=['eight_ball', 'eightball', '8-ball'],
