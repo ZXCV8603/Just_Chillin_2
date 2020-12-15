@@ -1,8 +1,7 @@
 # Work with Python 3.6
 import discord
 
-TOKEN = 'Nzg4MDkwMzEzOTY0MjU3MzMw.X9ecTA.fCAjY2GEDbWSJlEOkzOwbjOGH8Y'
-
+TOKEN = 123
 client = discord.Client()
 
 @client.event
