@@ -30,3 +30,6 @@ Jobs:
           command: |  # use pipenv to install dependencies
             sudo pip install pipenv
             pipenv install
+pip install --user -r requirements.txt
+pip install -r requirements.txt
+
